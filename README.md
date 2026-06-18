@@ -50,4 +50,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3612-process-string-with-special-operations-i](https://github.com/Muralidharan-21/LeetCode/tree/master/3612-process-string-with-special-operations-i) |
+## Array
+|  |
+| ------- |
+| [2574-left-and-right-sum-differences](https://github.com/Muralidharan-21/LeetCode/tree/master/2574-left-and-right-sum-differences) |
+## Prefix Sum
+|  |
+| ------- |
+| [2574-left-and-right-sum-differences](https://github.com/Muralidharan-21/LeetCode/tree/master/2574-left-and-right-sum-differences) |
 <!---LeetCode Topics End-->
