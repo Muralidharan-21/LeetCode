@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Muralidharan-21/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Muralidharan-21/LeetCode/tree/master/0142-linked-list-cycle-ii) |
+| [1189-maximum-number-of-balloons](https://github.com/Muralidharan-21/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [3945-digit-frequency-score](https://github.com/Muralidharan-21/LeetCode/tree/master/3945-digit-frequency-score) |
 ## Linked List
 |  |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Muralidharan-21/LeetCode/tree/master/0020-valid-parentheses) |
 | [0844-backspace-string-compare](https://github.com/Muralidharan-21/LeetCode/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Muralidharan-21/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1189-maximum-number-of-balloons](https://github.com/Muralidharan-21/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [3612-process-string-with-special-operations-i](https://github.com/Muralidharan-21/LeetCode/tree/master/3612-process-string-with-special-operations-i) |
 | [3894-traffic-signal-color](https://github.com/Muralidharan-21/LeetCode/tree/master/3894-traffic-signal-color) |
 ## Simulation
@@ -83,5 +85,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [1189-maximum-number-of-balloons](https://github.com/Muralidharan-21/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1833-maximum-ice-cream-bars](https://github.com/Muralidharan-21/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 <!---LeetCode Topics End-->
