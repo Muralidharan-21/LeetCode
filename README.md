@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/Muralidharan-21/LeetCode/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/Muralidharan-21/LeetCode/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Muralidharan-21/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1598-crawler-log-folder](https://github.com/Muralidharan-21/LeetCode/tree/master/1598-crawler-log-folder) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Muralidharan-21/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Recursion
 |  |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/Muralidharan-21/LeetCode/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Muralidharan-21/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1189-maximum-number-of-balloons](https://github.com/Muralidharan-21/LeetCode/tree/master/1189-maximum-number-of-balloons) |
+| [1598-crawler-log-folder](https://github.com/Muralidharan-21/LeetCode/tree/master/1598-crawler-log-folder) |
 | [3612-process-string-with-special-operations-i](https://github.com/Muralidharan-21/LeetCode/tree/master/3612-process-string-with-special-operations-i) |
 | [3894-traffic-signal-color](https://github.com/Muralidharan-21/LeetCode/tree/master/3894-traffic-signal-color) |
 ## Simulation
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/Muralidharan-21/LeetCode/tree/master/0682-baseball-game) |
+| [1598-crawler-log-folder](https://github.com/Muralidharan-21/LeetCode/tree/master/1598-crawler-log-folder) |
 | [1732-find-the-highest-altitude](https://github.com/Muralidharan-21/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [1833-maximum-ice-cream-bars](https://github.com/Muralidharan-21/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [2574-left-and-right-sum-differences](https://github.com/Muralidharan-21/LeetCode/tree/master/2574-left-and-right-sum-differences) |
