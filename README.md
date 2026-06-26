@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Muralidharan-21/LeetCode/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/Muralidharan-21/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Muralidharan-21/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [1189-maximum-number-of-balloons](https://github.com/Muralidharan-21/LeetCode/tree/master/1189-maximum-number-of-balloons) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Muralidharan-21/LeetCode/tree/master/0001-two-sum) |
 | [0682-baseball-game](https://github.com/Muralidharan-21/LeetCode/tree/master/0682-baseball-game) |
 | [1598-crawler-log-folder](https://github.com/Muralidharan-21/LeetCode/tree/master/1598-crawler-log-folder) |
 | [1732-find-the-highest-altitude](https://github.com/Muralidharan-21/LeetCode/tree/master/1732-find-the-highest-altitude) |
