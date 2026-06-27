@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/Muralidharan-21/LeetCode/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/Muralidharan-21/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Muralidharan-21/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Muralidharan-21/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/Muralidharan-21/LeetCode/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/Muralidharan-21/LeetCode/tree/master/0844-backspace-string-compare) |
 | [0946-validate-stack-sequences](https://github.com/Muralidharan-21/LeetCode/tree/master/0946-validate-stack-sequences) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Muralidharan-21/LeetCode/tree/master/0001-two-sum) |
 | [0496-next-greater-element-i](https://github.com/Muralidharan-21/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Muralidharan-21/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/Muralidharan-21/LeetCode/tree/master/0682-baseball-game) |
 | [0946-validate-stack-sequences](https://github.com/Muralidharan-21/LeetCode/tree/master/0946-validate-stack-sequences) |
 | [1598-crawler-log-folder](https://github.com/Muralidharan-21/LeetCode/tree/master/1598-crawler-log-folder) |
@@ -109,4 +111,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Muralidharan-21/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Muralidharan-21/LeetCode/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
