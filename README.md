@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Muralidharan-21/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1598-crawler-log-folder](https://github.com/Muralidharan-21/LeetCode/tree/master/1598-crawler-log-folder) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Muralidharan-21/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [2390-removing-stars-from-a-string](https://github.com/Muralidharan-21/LeetCode/tree/master/2390-removing-stars-from-a-string) |
 ## Recursion
 |  |
 | ------- |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Muralidharan-21/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1189-maximum-number-of-balloons](https://github.com/Muralidharan-21/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1598-crawler-log-folder](https://github.com/Muralidharan-21/LeetCode/tree/master/1598-crawler-log-folder) |
+| [2390-removing-stars-from-a-string](https://github.com/Muralidharan-21/LeetCode/tree/master/2390-removing-stars-from-a-string) |
 | [3612-process-string-with-special-operations-i](https://github.com/Muralidharan-21/LeetCode/tree/master/3612-process-string-with-special-operations-i) |
 | [3894-traffic-signal-color](https://github.com/Muralidharan-21/LeetCode/tree/master/3894-traffic-signal-color) |
 ## Simulation
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/Muralidharan-21/LeetCode/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/Muralidharan-21/LeetCode/tree/master/0844-backspace-string-compare) |
 | [0946-validate-stack-sequences](https://github.com/Muralidharan-21/LeetCode/tree/master/0946-validate-stack-sequences) |
+| [2390-removing-stars-from-a-string](https://github.com/Muralidharan-21/LeetCode/tree/master/2390-removing-stars-from-a-string) |
 | [3612-process-string-with-special-operations-i](https://github.com/Muralidharan-21/LeetCode/tree/master/3612-process-string-with-special-operations-i) |
 | [3894-traffic-signal-color](https://github.com/Muralidharan-21/LeetCode/tree/master/3894-traffic-signal-color) |
 ## Array
