@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Muralidharan-21/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0141-linked-list-cycle](https://github.com/Muralidharan-21/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Muralidharan-21/LeetCode/tree/master/0142-linked-list-cycle-ii) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Muralidharan-21/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0496-next-greater-element-i](https://github.com/Muralidharan-21/LeetCode/tree/master/0496-next-greater-element-i) |
 | [1189-maximum-number-of-balloons](https://github.com/Muralidharan-21/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Muralidharan-21/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Muralidharan-21/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Muralidharan-21/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/Muralidharan-21/LeetCode/tree/master/0143-reorder-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Muralidharan-21/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/Muralidharan-21/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Muralidharan-21/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Muralidharan-21/LeetCode/tree/master/0234-palindrome-linked-list) |
@@ -35,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Muralidharan-21/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Muralidharan-21/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/Muralidharan-21/LeetCode/tree/master/0143-reorder-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Muralidharan-21/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/Muralidharan-21/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0844-backspace-string-compare](https://github.com/Muralidharan-21/LeetCode/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/Muralidharan-21/LeetCode/tree/master/0876-middle-of-the-linked-list) |
