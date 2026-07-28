@@ -9,8 +9,12 @@ class Solution {
             Arrays.sort(arr);
             String key = new String(arr);
 
-            map.putIfAbsent(key,new ArrayList<>());
+            if(!map.containsKey(key)){
+                map.put(key,new ArrayList<>());
+            }
+
             map.get(key).add(word);
+         
 
         }
         return new ArrayList<>(map.values());
