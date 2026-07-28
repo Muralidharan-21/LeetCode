@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/Muralidharan-21/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0217-contains-duplicate](https://github.com/Muralidharan-21/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Muralidharan-21/LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [0242-valid-anagram](https://github.com/Muralidharan-21/LeetCode/tree/master/0242-valid-anagram) |
 | [0496-next-greater-element-i](https://github.com/Muralidharan-21/LeetCode/tree/master/0496-next-greater-element-i) |
 | [1189-maximum-number-of-balloons](https://github.com/Muralidharan-21/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Muralidharan-21/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Muralidharan-21/LeetCode/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/Muralidharan-21/LeetCode/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/Muralidharan-21/LeetCode/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/Muralidharan-21/LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Muralidharan-21/LeetCode/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/Muralidharan-21/LeetCode/tree/master/0412-fizz-buzz) |
 | [0709-to-lower-case](https://github.com/Muralidharan-21/LeetCode/tree/master/0709-to-lower-case) |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Muralidharan-21/LeetCode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Muralidharan-21/LeetCode/tree/master/0242-valid-anagram) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Muralidharan-21/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Muralidharan-21/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/Muralidharan-21/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
