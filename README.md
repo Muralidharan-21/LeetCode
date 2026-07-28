@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Muralidharan-21/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Muralidharan-21/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Muralidharan-21/LeetCode/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/Muralidharan-21/LeetCode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/Muralidharan-21/LeetCode/tree/master/0383-ransom-note) |
 | [0496-next-greater-element-i](https://github.com/Muralidharan-21/LeetCode/tree/master/0496-next-greater-element-i) |
 | [1189-maximum-number-of-balloons](https://github.com/Muralidharan-21/LeetCode/tree/master/1189-maximum-number-of-balloons) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Muralidharan-21/LeetCode/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/Muralidharan-21/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Muralidharan-21/LeetCode/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/Muralidharan-21/LeetCode/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/Muralidharan-21/LeetCode/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/Muralidharan-21/LeetCode/tree/master/0383-ransom-note) |
 | [0412-fizz-buzz](https://github.com/Muralidharan-21/LeetCode/tree/master/0412-fizz-buzz) |
