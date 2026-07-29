@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/Muralidharan-21/LeetCode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/Muralidharan-21/LeetCode/tree/master/0383-ransom-note) |
 | [0496-next-greater-element-i](https://github.com/Muralidharan-21/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0560-subarray-sum-equals-k](https://github.com/Muralidharan-21/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [1189-maximum-number-of-balloons](https://github.com/Muralidharan-21/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Muralidharan-21/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3945-digit-frequency-score](https://github.com/Muralidharan-21/LeetCode/tree/master/3945-digit-frequency-score) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Muralidharan-21/LeetCode/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/Muralidharan-21/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Muralidharan-21/LeetCode/tree/master/0503-next-greater-element-ii) |
+| [0560-subarray-sum-equals-k](https://github.com/Muralidharan-21/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/Muralidharan-21/LeetCode/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/Muralidharan-21/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/Muralidharan-21/LeetCode/tree/master/0682-baseball-game) |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Muralidharan-21/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Muralidharan-21/LeetCode/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/Muralidharan-21/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/Muralidharan-21/LeetCode/tree/master/1732-find-the-highest-altitude) |
