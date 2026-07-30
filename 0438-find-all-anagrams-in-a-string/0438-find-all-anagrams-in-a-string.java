@@ -1,22 +1,20 @@
 class Solution {
     public List<Integer> findAnagrams(String s, String p) {
 
+
         ArrayList<Integer> arr = new ArrayList<>();
-        char patern[] = p.toCharArray(); 
-        Arrays.sort(patern);
+        char[] pp = p.toCharArray();
+        Arrays.sort(pp);
 
-        for(int i = 0 ; i<= s.length()-p.length() ; i++){
-
+        for(int i = 0 ; i<= s.length() - p.length() ;i++){
 
             String sub = s.substring(i,i+p.length());
-            char ss[] = sub.toCharArray();
-            Arrays.sort(ss);
+            char[] temp = sub.toCharArray();
+            Arrays.sort(temp);
 
-            if(Arrays.equals(ss,patern)){
+            if(Arrays.equals(temp,pp)){
                 arr.add(i);
             }
-
-
         }
         return arr;
         
