@@ -2,7 +2,7 @@ class Solution {
     public int smallestNumber(int n, int t) {
 
 
-        if(prod(n)%t == t){
+        if(prod(n)%t == 0){
             return n;
         }
         else{
