@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Muralidharan-21/LeetCode/tree/master/0069-sqrtx) |
 | [0412-fizz-buzz](https://github.com/Muralidharan-21/LeetCode/tree/master/0412-fizz-buzz) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Muralidharan-21/LeetCode/tree/master/1344-angle-between-hands-of-a-clock) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Muralidharan-21/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Muralidharan-21/LeetCode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3894-traffic-signal-color](https://github.com/Muralidharan-21/LeetCode/tree/master/3894-traffic-signal-color) |
 | [3945-digit-frequency-score](https://github.com/Muralidharan-21/LeetCode/tree/master/3945-digit-frequency-score) |
@@ -260,4 +261,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Muralidharan-21/LeetCode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Muralidharan-21/LeetCode/tree/master/0069-sqrtx) |
 | [0704-binary-search](https://github.com/Muralidharan-21/LeetCode/tree/master/0704-binary-search) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Muralidharan-21/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
