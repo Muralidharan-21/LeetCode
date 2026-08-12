@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Muralidharan-21/LeetCode/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/Muralidharan-21/LeetCode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Muralidharan-21/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/Muralidharan-21/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0217-contains-duplicate](https://github.com/Muralidharan-21/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Muralidharan-21/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/Muralidharan-21/LeetCode/tree/master/0283-move-zeroes) |
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/Muralidharan-21/LeetCode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Muralidharan-21/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/Muralidharan-21/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0498-diagonal-traverse](https://github.com/Muralidharan-21/LeetCode/tree/master/0498-diagonal-traverse) |
 | [1672-richest-customer-wealth](https://github.com/Muralidharan-21/LeetCode/tree/master/1672-richest-customer-wealth) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Muralidharan-21/LeetCode/tree/master/3898-find-the-degree-of-each-vertex) |
@@ -269,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/Muralidharan-21/LeetCode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Muralidharan-21/LeetCode/tree/master/0069-sqrtx) |
+| [0074-search-a-2d-matrix](https://github.com/Muralidharan-21/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0704-binary-search](https://github.com/Muralidharan-21/LeetCode/tree/master/0704-binary-search) |
 ## Enumeration
 |  |
