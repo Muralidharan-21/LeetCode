@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Muralidharan-21/LeetCode/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/Muralidharan-21/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Muralidharan-21/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0686-repeated-string-match](https://github.com/Muralidharan-21/LeetCode/tree/master/0686-repeated-string-match) |
 | [0709-to-lower-case](https://github.com/Muralidharan-21/LeetCode/tree/master/0709-to-lower-case) |
 | [0844-backspace-string-compare](https://github.com/Muralidharan-21/LeetCode/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Muralidharan-21/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -334,4 +335,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Muralidharan-21/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+## String Matching
+|  |
+| ------- |
+| [0686-repeated-string-match](https://github.com/Muralidharan-21/LeetCode/tree/master/0686-repeated-string-match) |
+## Z Algorithm
+|  |
+| ------- |
+| [0686-repeated-string-match](https://github.com/Muralidharan-21/LeetCode/tree/master/0686-repeated-string-match) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0686-repeated-string-match](https://github.com/Muralidharan-21/LeetCode/tree/master/0686-repeated-string-match) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0686-repeated-string-match](https://github.com/Muralidharan-21/LeetCode/tree/master/0686-repeated-string-match) |
 <!---LeetCode Topics End-->
