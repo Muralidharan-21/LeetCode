@@ -21,7 +21,7 @@ class Solution {
         Queue<TreeNode> q = new LinkedList<>();
 
         q.add(root);
-        int count = 0;
+        boolean leftToRight = true;
         if(root==null){
             return res;
         }
@@ -37,11 +37,11 @@ class Solution {
                 if(node.left!=null){q.add(node.left);}
                 if(node.right!=null){q.add(node.right);}
             }
-            if(count%2!=0){
+            if(!leftToRight){
                 Collections.reverse(level);
             }
             res.add(level);
-            count++;
+            leftToRight = !leftToRight;
         }
 
         return res;
