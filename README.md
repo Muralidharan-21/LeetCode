@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Muralidharan-21/LeetCode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Muralidharan-21/LeetCode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Muralidharan-21/LeetCode/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/Muralidharan-21/LeetCode/tree/master/0070-climbing-stairs) |
 | [0412-fizz-buzz](https://github.com/Muralidharan-21/LeetCode/tree/master/0412-fizz-buzz) |
 | [0973-k-closest-points-to-origin](https://github.com/Muralidharan-21/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Muralidharan-21/LeetCode/tree/master/1344-angle-between-hands-of-a-clock) |
@@ -301,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Muralidharan-21/LeetCode/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/Muralidharan-21/LeetCode/tree/master/0070-climbing-stairs) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Muralidharan-21/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Binary Search
 |  |
@@ -405,4 +407,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Muralidharan-21/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/Muralidharan-21/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Muralidharan-21/LeetCode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
