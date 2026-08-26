@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Muralidharan-21/LeetCode/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/Muralidharan-21/LeetCode/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Muralidharan-21/LeetCode/tree/master/0049-group-anagrams) |
+| [0091-decode-ways](https://github.com/Muralidharan-21/LeetCode/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/Muralidharan-21/LeetCode/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/Muralidharan-21/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Muralidharan-21/LeetCode/tree/master/0242-valid-anagram) |
@@ -305,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Muralidharan-21/LeetCode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Muralidharan-21/LeetCode/tree/master/0070-climbing-stairs) |
+| [0091-decode-ways](https://github.com/Muralidharan-21/LeetCode/tree/master/0091-decode-ways) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Muralidharan-21/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/Muralidharan-21/LeetCode/tree/master/0198-house-robber) |
 | [0746-min-cost-climbing-stairs](https://github.com/Muralidharan-21/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
