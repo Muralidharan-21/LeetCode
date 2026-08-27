@@ -193,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/Muralidharan-21/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 | [0946-validate-stack-sequences](https://github.com/Muralidharan-21/LeetCode/tree/master/0946-validate-stack-sequences) |
 | [0973-k-closest-points-to-origin](https://github.com/Muralidharan-21/LeetCode/tree/master/0973-k-closest-points-to-origin) |
+| [1004-max-consecutive-ones-iii](https://github.com/Muralidharan-21/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-last-stone-weight](https://github.com/Muralidharan-21/LeetCode/tree/master/1046-last-stone-weight) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Muralidharan-21/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Muralidharan-21/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Muralidharan-21/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Muralidharan-21/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Muralidharan-21/LeetCode/tree/master/0724-find-pivot-index) |
+| [1004-max-consecutive-ones-iii](https://github.com/Muralidharan-21/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/Muralidharan-21/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/Muralidharan-21/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [2574-left-and-right-sum-differences](https://github.com/Muralidharan-21/LeetCode/tree/master/2574-left-and-right-sum-differences) |
@@ -273,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/Muralidharan-21/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Muralidharan-21/LeetCode/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/Muralidharan-21/LeetCode/tree/master/0643-maximum-average-subarray-i) |
+| [1004-max-consecutive-ones-iii](https://github.com/Muralidharan-21/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Muralidharan-21/LeetCode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Muralidharan-21/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Muralidharan-21/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -331,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Muralidharan-21/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0209-minimum-size-subarray-sum](https://github.com/Muralidharan-21/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0704-binary-search](https://github.com/Muralidharan-21/LeetCode/tree/master/0704-binary-search) |
+| [1004-max-consecutive-ones-iii](https://github.com/Muralidharan-21/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 ## Enumeration
 |  |
 | ------- |
