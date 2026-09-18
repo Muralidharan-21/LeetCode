@@ -173,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Muralidharan-21/LeetCode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Muralidharan-21/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Muralidharan-21/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Muralidharan-21/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/Muralidharan-21/LeetCode/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/Muralidharan-21/LeetCode/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/Muralidharan-21/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
@@ -339,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Muralidharan-21/LeetCode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Muralidharan-21/LeetCode/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/Muralidharan-21/LeetCode/tree/master/0091-decode-ways) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Muralidharan-21/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Muralidharan-21/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/Muralidharan-21/LeetCode/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/Muralidharan-21/LeetCode/tree/master/0322-coin-change) |
