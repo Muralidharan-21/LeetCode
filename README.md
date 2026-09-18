@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Muralidharan-21/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Muralidharan-21/LeetCode/tree/master/0567-permutation-in-string) |
 | [1189-maximum-number-of-balloons](https://github.com/Muralidharan-21/LeetCode/tree/master/1189-maximum-number-of-balloons) |
+| [2404-most-frequent-even-element](https://github.com/Muralidharan-21/LeetCode/tree/master/2404-most-frequent-even-element) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Muralidharan-21/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Muralidharan-21/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Muralidharan-21/LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/Muralidharan-21/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [1833-maximum-ice-cream-bars](https://github.com/Muralidharan-21/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [1920-build-array-from-permutation](https://github.com/Muralidharan-21/LeetCode/tree/master/1920-build-array-from-permutation) |
+| [2404-most-frequent-even-element](https://github.com/Muralidharan-21/LeetCode/tree/master/2404-most-frequent-even-element) |
 | [2574-left-and-right-sum-differences](https://github.com/Muralidharan-21/LeetCode/tree/master/2574-left-and-right-sum-differences) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Muralidharan-21/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Muralidharan-21/LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -256,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/Muralidharan-21/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Muralidharan-21/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1833-maximum-ice-cream-bars](https://github.com/Muralidharan-21/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
+| [2404-most-frequent-even-element](https://github.com/Muralidharan-21/LeetCode/tree/master/2404-most-frequent-even-element) |
 ## Monotonic Stack
 |  |
 | ------- |
