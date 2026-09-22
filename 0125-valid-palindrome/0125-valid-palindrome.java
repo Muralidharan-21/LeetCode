@@ -1,7 +1,9 @@
 class Solution {
     public boolean isPalindrome(String s) {
 
-        int left =0;
+      
+
+        int left = 0;
         int right = s.length()-1;
 
         while(left<right){
@@ -11,6 +13,7 @@ class Solution {
 
             char l = Character.toLowerCase(s.charAt(left));
             char r = Character.toLowerCase(s.charAt(right));
+
             if(l!=r){
                 return false;
             }
@@ -29,19 +32,27 @@ class Solution {
 
 
 
+
+
+
+
+
+
 // class Solution {
 //     public boolean isPalindrome(String s) {
-//         int n = s.length();
+
 //         int left = 0;
-//         int right = n - 1;
+//         int right = s.length()-1;
 
 //         while(left<right){
 
-//             while( left< right && !Character.isLetterOrDigit(s.charAt(left))){left++;}
-//             while(left < right && !Character.isLetterOrDigit(s.charAt(right))){right--;}
+//             while(!Character.isLetterOrDigit(s.charAt(left)) && left<right ){
+//                 left++;
+//             }
+//             while(! Character.isLetterOrDigit(s.charAt(right)) && left<right){right--;}
 
-//             char l = Character.toLowerCase(s.charAt(left));
-//             char r = Character.toLowerCase(s.charAt(right));
+//             char l = Character.toUpperCase(s.charAt(left));
+//             char r = Character.toUpperCase(s.charAt(right));
 
 //             if(l!=r){
 //                 return false;
@@ -54,3 +65,12 @@ class Solution {
         
 //     }
 // }
+
+
+
+
+
+
+
+
+
