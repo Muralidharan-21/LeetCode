@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Muralidharan-21/LeetCode/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/Muralidharan-21/LeetCode/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Muralidharan-21/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Muralidharan-21/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/Muralidharan-21/LeetCode/tree/master/0088-merge-sorted-array) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Muralidharan-21/LeetCode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Muralidharan-21/LeetCode/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/Muralidharan-21/LeetCode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Muralidharan-21/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/Muralidharan-21/LeetCode/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/Muralidharan-21/LeetCode/tree/master/0048-rotate-image) |
@@ -258,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Muralidharan-21/LeetCode/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/Muralidharan-21/LeetCode/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/Muralidharan-21/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Muralidharan-21/LeetCode/tree/master/0169-majority-element) |
